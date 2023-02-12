@@ -46,7 +46,7 @@
     "sync-request": "^6.1.0"
   },
   "devDependencies": {
-    "ava": "^3.15.0",
+    "ava": "^5.2.0",
     "doxxx": "^1.0.0",
     "rimraf": "^3.0.2",
     "sinon": "^11.1.1",
